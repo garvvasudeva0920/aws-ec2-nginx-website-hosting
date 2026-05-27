@@ -73,6 +73,10 @@ AWS EC2 Ubuntu Instance
 - Web server hosting
 - SSH remote access
 
+
+<img width="1920" height="977" alt="Screenshot 2026-05-28 002428" src="https://github.com/user-attachments/assets/dd6cb2ce-72b4-4acd-b794-1e13c673f0b3" />
+-Added project output screenshot to README
+
 ---
 
 ## Author
