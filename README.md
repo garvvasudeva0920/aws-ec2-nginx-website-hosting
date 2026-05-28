@@ -75,14 +75,12 @@ AWS EC2 Ubuntu Instance
 
 
 <img width="1920" height="977" alt="Screenshot 2026-05-28 002428" src="https://github.com/user-attachments/assets/dd6cb2ce-72b4-4acd-b794-1e13c673f0b3" />
-Added project output screenshot to README
 
-
-<img width="1920" height="1080" alt="aws-portfolio-output png" src="https://github.com/user-attachments/assets/200740fa-c93a-4afa-8dfb-6a744d2f8010" />
-Added project output screenshot
----
 ## Project Output
 
-![Project Output](aws-portfolio-output.png)
+<img width="1920" height="1080" alt="aws-portfolio-output png" src="https://github.com/user-attachments/assets/200740fa-c93a-4afa-8dfb-6a744d2f8010" />
+
+
+---
 ## Author
 Garv Vasudeva
