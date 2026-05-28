@@ -2,7 +2,9 @@
 
 ## Project Overview
 This project demonstrates deployment of a live website on AWS EC2 using Ubuntu Linux and Nginx web server.
+## Live Demo
 
+http://garv-cloud-portfolio-2026.s3-website-us-east-1.amazonaws.com
 ---
 
 ## AWS Services Used
